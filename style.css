@@ -1,0 +1,29 @@
+li{
+    list-style-type: none;
+    font-size:30px ;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.box{
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
